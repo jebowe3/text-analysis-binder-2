@@ -1,1 +1,2 @@
-# text-analysis-binder-2
+# Text-Analysis-Binder
+Jupyter Notebook Binder for Text Analysis
